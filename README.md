@@ -37,22 +37,3 @@ The dashboard provides insights into:
 
 * **Tableau Public** – For creating the interactive dashboard.
 * **Airbnb Dataset** – Source of pricing, location, and revenue data.
-
-## 📂 Repository Structure
-
-```
-├── data/                # Dataset files (if included)
-├── tableau/             # Tableau workbook files (.twb, .twbx)
-├── images/              # Dashboard screenshots
-├── README.md            # Project documentation
-```
-## 🌐 How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/airbnb-revenue-dashboard.git
-   cd airbnb-revenue-dashboard
-   ```
-2. Open the Tableau workbook (`.twb` or `.twbx`) in **Tableau Public/Desktop**.
-3. Interact with the filters, maps, and graphs to explore insights.
